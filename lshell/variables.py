@@ -84,10 +84,9 @@ configparams = ['config=',
                 'scpforce=',
                 'history_size=',
                 'history_file=',
-                'path_noexec=',
+                'path_noxec=',
                 'allowed_shell_escape=',
                 'winscp=',
-                'disable_exit=',
                 'include_dir=']
 
 builtins_list = ['cd',
